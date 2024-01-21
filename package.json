@@ -1,0 +1,29 @@
+{
+  "name": "unitedcode-taf",
+  "version": "0.0.1",
+  "author": "Pavlo Hlazkov",
+  "engines" : {
+    "npm" : ">=8.0.0",
+    "node" : ">=16.0.0"
+  },
+  "scripts": {
+    "test": "npx playwright test",
+    "test-ui": "npx playwright test --ui",
+    "lint": "npx eslint ./src ./tests"
+  },
+  "devDependencies": {
+    "@faker-js/faker": "^8.2.0",
+    "@playwright/test": "^1.39.0",
+    "@types/node": "^20.8.10",
+    "@typescript-eslint/eslint-plugin": "^6.9.1",
+    "@typescript-eslint/parser": "^6.9.1",
+    "dotenv": "^16.3.1",
+    "eslint": "^8.53.0",
+    "eslint-config-prettier": "^9.0.0",
+    "eslint-plugin-playwright": "^0.18.0",
+    "eslint-plugin-prettier": "^5.0.1",
+    "faker": "5.5.3",
+    "prettier": "^3.0.3",
+    "typescript": "^5.2.2"
+  }
+}
