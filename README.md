@@ -1,4 +1,4 @@
-# Test automation framework for scylladb (cloud)
+# Test automation framework for unitedcode
 
 ## About:
 This is kind of proof of concept for Unitedcode test automation framework 
