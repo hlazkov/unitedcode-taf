@@ -9,7 +9,6 @@ using Playwright.
 You will need to run this code:
  - ```Node.js -v 16+```
  - ```npm -v 8+```
- - User registered at https://cloud.scylladb.com/
 
 ## How to make this work?
 
