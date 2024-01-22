@@ -28,7 +28,7 @@ You will need to run this code:
 could try more. Defaults to 1
 - `BROWSER` - which browser should we use. *Should contain one of* `["chrome", "edge", "firefox", "safari"]`, defaults 
 to `"chrome"`
-- `BASE_URL` defines base URL of frontend app. Defaults to `"https://cloud.scylladb.com/"`
+- `BASE_URL` defines base URL of frontend app. Defaults to `"https://www.douglas.de/de/"`
 - `HEADLESS` allows to run browser in headless mode. Options `"true" | "false"`, defaults to `"false"`
 - `TRACE_ON_FAIL_ONLY` allows Playwright to get trace on retries only (`"true"`) or always(`"false"`). Defaults to 
 `"false"` 
